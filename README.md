@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+Welcome! My name is [Maximiliano Choque Martinez](https://www.linkedin.com/in/maximiliano-choque-martinez/). I'm Full Stack Developer with a strong focus on modern front-end development using TypeScript, React, and Next.js. I bring end-to-end experience building scalable, high-performance web applications, with a solid backend foundation using NestJS and Node.js. My recent work emphasizes creating intuitive, responsive user interfaces, implementing complex UI logic with Redux Toolkit, and ensuring seamless data handling through Apollo GraphQL.
+
+I am passionate about building maintainable and modular codebases, collaborating with cross-functional teams, and continuously evolving as a developer. I'm seeking a challenging role where I can further grow my front-end expertise while contributing across the full stack using technologies like React, Next.js, TypeScript, NestJS, MongoDB, and PostgreSQL.
 <!--
 **max6811/max6811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
